@@ -1,3 +1,25 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Aleo:wght@200;300;400;500;700&display=swap'); */
+
+@font-face {
+    font-family: 'reey';
+    src: url('/assets/fonts/Aleo-Regular') format('ttf'), url('/assets/fonts/Aleo-Regular.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+@layer base {
+
+}
+
+@layer components {
+
+}
+
+@layer utilities {
+    
+}
+
